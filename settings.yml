@@ -27,38 +27,38 @@ Invert_position:
   description:
     en: "Display menu items on the opposite side of the screen"
 Menu_background:
-  default: ""
+  default: "#b0b0cc"
   description:
     en: "Background color for the menu. <small>(hex, rgb, rgba or CSS color name)</small>"
 Menu_item_color:
-  default: ""
+  default: "#fff"
   description:
     en: "Color for menu items. <small>(hex, rgb, rgba or CSS color name)</small>"
 Menu-item-active-background:
-  default: ""
+  default: "#e0e0f0"
   description:
     en: "Background color for menu items when active. <small>(hex, rgb, rgba or CSS color name)</small>"
 Menu-item-active-color:
-  default: ""
+  default: "#222"
   description:
     en: "Color for menu items when active. <small>(hex, rgb, rgba or CSS color name)</small>"
 Submenu_background:
-  default: ""
+  default: "#e0e0f0"
   description:
     en: "Background color for submenus. <small>(hex, rgb, rgba or CSS color name)</small>"
 Submenu_item_color:
-  default: ""
+  default: "#222"
   description:
     en: "Color for submenu items. <small>(hex, rgb, rgba or CSS color name)</small>"
 Submenu_item_hover_background:
-  default: ""
+  default: "#ebebf7"
   description:
     en: "Background color for submenus items when hovered. <small>(hex, rgb, rgba or CSS color name)</small>"
 Submenu_item_hover_color:
-  default: ""
+  default: "#222"
   description:
     en: "Color for submenus items when hovered. <small>(hex, rgb, rgba or CSS color name)</small>"
 Divider_color:
-  default: ""
+  default: "#bbb"
   description:
     en: "Color for divider lines in submenus. <small>(hex, rgb, rgba or CSS color name)</small>"
