@@ -1,6 +1,6 @@
 Menu_items:
   type: list
-  default: "More Communities, none, Even more cool communities!, vdo"
+  default: "Communities, none, Even more cool communities!, vdo"
   description:
     en: "Add menu items. One item per line in this order: Text, icon, title, view.<br><br><b>Text:</b> what appears on the menu.<br><b>Icon:</b> the icon displayed next to the item. If you do not want to use an icon, use `none`<br><b>Title:</b> the text that appears when the item is hovered.<br><b>View:</b> Choose what devices the item appears on. `vdm` appears on both desktop and mobile, `vdo` appears on desktops only, `vmo` appears on mobiles only."
 Submenu_items:
