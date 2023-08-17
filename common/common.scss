@@ -88,7 +88,7 @@ $icon-opacity: 0.7;
   }
 
   .d-dropdown-menu {
-    min-width: 9em;
+    min-width: 10em;
     background: fallback($Submenu_background, $secondary);
     box-shadow: var(--shadow-menu-panel);
     margin: 0;
@@ -131,7 +131,7 @@ $icon-opacity: 0.7;
 /* JENS OVERRIDES */
 
 .top-menu .menu-item {
-  min-width: 10em;
+  min-width: 9em;
 }
 
 /* nOObish.me tweaks */
