@@ -130,15 +130,12 @@ $icon-opacity: 0.7;
 
 /* JENS OVERRIDES */
 
-.top-menu {
+.top-menu,
+.top-menu .menu-items,
+.top-menu .menu-items a,
+.top-menu .menu-items svg {
   -webkit-backdrop-filter: blur(10 px) !important;
   -moz-backdrop-filter: blur(10px) !important;
   backdrop-filter: blur(10px) !important;
   box-shadow: 20px 20px 50px rgba(0, 0, 0, 0.5);
-}
-
-.top-menu .menu-items,
-.top-menu .menu-items a,
-.top-menu .menu-items svg {
-  filter: drop-shadow(1px 4px 2px rgba(0, 0, 0, 0.4));
 }
