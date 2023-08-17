@@ -136,7 +136,7 @@ $icon-opacity: 0.7;
 }
 .top-menu .d-icon {
     color: #fff;
-    fill: #fff;
+    fill: #fff !important;
 }
 
 .top-menu {
@@ -144,9 +144,6 @@ $icon-opacity: 0.7;
   -moz-backdrop-filter: blur(10px) !important;
   backdrop-filter: blur(10px) !important;
   box-shadow: 20px 20px 50px rgba(0, 0, 0, 0.4);
-
-    color: #fff !important;
-  fill: #fff !important;
 }
 
 .top-menu .menu-items,
