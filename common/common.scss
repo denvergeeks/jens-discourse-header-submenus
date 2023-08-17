@@ -132,6 +132,8 @@ $icon-opacity: 0.7;
 
 .top-menu .menu-item {
   padding: 0 1.1em;
+    color: #fff;
+  fill: #fff;
 }
 
 .top-menu {
@@ -144,7 +146,5 @@ $icon-opacity: 0.7;
 .top-menu .menu-items,
 .top-menu .menu-items a,
 .top-menu .menu-items svg {
-  color: #fff;
-  fill: #fff;
   filter: drop-shadow(1px 4px 2px rgba(0, 0, 0, 0.2));
 }
