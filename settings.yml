@@ -27,7 +27,7 @@ Invert_position:
   description:
     en: "Display menu items on the opposite side of the screen"
 Menu_background:
-  default: "#b0b0cc"
+  default: "#6d5073"
   description:
     en: "Background color for the menu. <small>(hex, rgb, rgba or CSS color name)</small>"
 Menu_item_color:
