@@ -132,8 +132,7 @@ $icon-opacity: 0.7;
 
 .top-menu .menu-item {
   padding: 0 1.1em;
-    color: #fff;
-  fill: #fff;
+
 }
 
 .top-menu {
@@ -141,6 +140,9 @@ $icon-opacity: 0.7;
   -moz-backdrop-filter: blur(10px) !important;
   backdrop-filter: blur(10px) !important;
   box-shadow: 20px 20px 50px rgba(0, 0, 0, 0.4);
+
+    color: #fff;
+  fill: #fff;
 }
 
 .top-menu .menu-items,
