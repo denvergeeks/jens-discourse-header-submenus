@@ -135,9 +135,15 @@ $icon-opacity: 0.7;
 
 }
 .top-menu .d-icon {
-    color: #fff;
     fill: #fff !important;
 }
+
+.top-menu .d-icon:hover,
+.top-menu .d-icon:active,
+.top-menu .d-icon:focus {
+    fill: #222 !important;
+}
+
 
 .top-menu {
   -webkit-backdrop-filter: blur(10 px) !important;
